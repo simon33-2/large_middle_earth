@@ -7881,8 +7881,6 @@
     <property name="Raids May Be Preceeded By Air Battles" value="true" editable="false">
       <boolean/>
     </property>
-    <!-- SBR Affects Unit Production no longer does anything at all.  Instead it just sets to true: "Damage From Bombing Done To Units Instead Of Territories"
-				<property name="SBR Affects Unit Production" value="false" editable="false">
 						<boolean/>
 				</property>-->
     <!-- Damage From Bombing Done To Units Instead Of Territories has Strategic Bombing and Rockets do damage to a specific unit rather than directly to the player's PUs or to a territory. -->
